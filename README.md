@@ -1,1 +1,1 @@
-# AI_Homework_Semeter1
+This repository use collecting all my homework
